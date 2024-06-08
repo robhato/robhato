@@ -3,7 +3,7 @@
 
 <p align="center"> <img alt="synth-sun" width="500px" src="https://i.imgur.com/DR4BP4M.gif"/> </p>
 
-<p align="center"> I'm Jaideep, an early career developer with a focus in data analysis/engineering. My major interests/hobbies are music/gaming/exploring the great outdoors. I love finding creative ways to involve those in my work and inspire myself and others to build cool stuff! </p>
+<h4 align="center"> I'm Jaideep, an early career developer with a focus in data analysis/engineering. My major interests/hobbies are music/gaming/exploring the great outdoors. I love finding creative ways to involve those in my work and inspire myself and others to build cool stuff! </h4>
 
 <h1 align="center"> Tech Stack </h1>
 
